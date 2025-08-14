@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Um RPG pós apocalíptico onde os personagens não lembram de nada e precisam desvendar os mistérios desse mundo enquanto tentam sobreviver
+# [[Sistema]]
+![[Sistema#O que é]]
